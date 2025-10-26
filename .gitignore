@@ -34,27 +34,3 @@ dependency-reduced-pom.xml
 *.zip
 *.tar.gz
 *.rar
-
-# Eclipse
-.classpath
-.project
-.settings/
-
-# NetBeans
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-
-# VS Code
-.vscode/
-
-# Temporary files
-*.tmp
-*.bak
-*.swp
-*~
-
-# Output files (uncomment if you don't want to commit output)
-# src/main/resources/ass_3_output.json
